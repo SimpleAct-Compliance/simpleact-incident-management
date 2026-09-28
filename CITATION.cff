@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Incident Management für KI-Systeme
+message: "If you use this repository, please cite it as part of the SimpleAct AI Governance Framework."
+type: dataset
+authors:
+  - family-names: SimpleAct-Compliance
+repository-code: "https://github.com/SimpleAct-Compliance/simpleact-incident-management"
+license: MIT
+abstract: "Operating model for AI incident handling under the EU AI Act: post-market monitoring, runtime signals, serious incident classification, corrective actions and reassessment triggers."
+keywords:
+  - EU AI Act
+  - AI governance
+  - AI compliance
+  - incident management
+  - post-market monitoring
+  - serious incident
+  - CAPA
+  - SimpleAct

@@ -1,0 +1,25 @@
+# SimpleAct — Incident Management für KI-Systeme
+
+> Offenes Betriebsmodell für Vorfälle, Post-Market-Monitoring und Korrekturmaßnahmen nach EU AI Act. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+
+Dieses Repository beschreibt, wie KI-Systeme nach der Inbetriebnahme beobachtet werden und wie aus einer Auffälligkeit ein dokumentierter, prüffähiger Vorgang wird. Es behandelt die Beobachtungspflicht nach Art. 72 und die Meldepflicht für schwerwiegende Vorfälle nach Art. 73 der Verordnung (EU) 2024/1689.
+
+Kette: Laufzeitsignal → Vorfall → Korrekturmaßnahme → Neubewertung.
+
+## Wissensbasis
+
+- [Post-Market-Monitoring nach Art. 72](knowledge-base/eu-ai-act/post-market-monitoring.md): Bestandteile eines Beobachtungsplans, Rückkopplung in die Risikobewertung, eigene Pflichten der Betreiber nach Art. 26.
+- [Schwerwiegende Vorfälle nach Art. 73](knowledge-base/eu-ai-act/serious-incidents.md): Definition über die Folge statt über die technische Ursache, Meldeweg an die Marktüberwachungsbehörde, Abgrenzung zur Datenschutzverletzung nach Art. 33 DSGVO.
+- [Laufzeitsignale und Eskalation](knowledge-base/eu-ai-act/runtime-signals.md): Kategorien Drift, Verzerrung, Leistung, Sicherheit, Betrieb; Schweregrade Hinweis, Warnung, Hoch, Kritisch; Kriterien, wann ein Signal zum Vorfall wird.
+- [Änderungen und Neubewertung](knowledge-base/eu-ai-act/change-and-reassessment.md): wesentliche Änderung, Testfreigabe vor dem Ausrollen, unbemerkte Änderungen durch Anbieter.
+
+## Vorlagen
+
+- [Vorfallakte](templates/incident-record.md): Zeitpunkte, getrennte Einstufung nach Art. 73 und Art. 33 DSGVO, Sofortmaßnahmen, Meldungen, Ursachenanalyse, Abschluss.
+- [Korrekturmaßnahme CAPA](templates/capa-action.md): Korrektur und Vorbeugung getrennt, Wirksamkeitsprüfung als eigener Schritt.
+
+## Hinweise
+
+Die Fristen nach Art. 73 sind nicht einheitlich, sondern hängen von der Art des Vorfalls ab. Dieses Repository nennt bewusst keine Fristentabelle und verweist auf den geltenden Verordnungstext.
+
+Alle Inhalte stellen keine Rechtsberatung dar. Stand: September 2026. Lizenz: MIT.
