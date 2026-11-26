@@ -1,6 +1,6 @@
 # Vorlage: Vorfallakte KI-System
 
-Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird — sie können beim Übernehmen entfallen.
+Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird – sie können beim Übernehmen entfallen.
 
 ---
 
@@ -22,7 +22,7 @@ Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird �
 | Vorfall entdeckt | | |
 | **Kenntnis der verantwortlichen Stelle** | | |
 
-*Meldefristen laufen ab Kenntnis, nicht ab Eintritt. Ohne diesen Zeitpunkt lässt sich die Fristwahrung nicht belegen — und die Beweislast liegt bei Ihnen.*
+*Meldefristen laufen ab Kenntnis, nicht ab Eintritt. Ohne diesen Zeitpunkt lässt sich die Fristwahrung nicht belegen – und die Beweislast liegt bei Ihnen.*
 
 ## 3. Einstufung
 
@@ -33,7 +33,7 @@ Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird �
 | **Datenschutzverletzung nach Art. 33 DSGVO?** | ja / nein | |
 | Meldepflicht ausgelöst? | ja / nein | |
 
-*Die beiden Einstufungen werden getrennt beantwortet. Ein Vorfall kann beides sein, eines von beidem oder keines. Auch ein Nein gehört begründet — eine begründete Nicht-Meldung ist verteidigbar, eine unbegründete nicht.*
+*Die beiden Einstufungen werden getrennt beantwortet. Ein Vorfall kann beides sein, eines von beidem oder keines. Auch ein Nein gehört begründet – eine begründete Nicht-Meldung ist verteidigbar, eine unbegründete nicht.*
 
 ## 4. Hergang
 
@@ -56,7 +56,7 @@ Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird �
 | Anbieter des KI-Systems | | | |
 | Betroffene Personen | | | |
 
-*Betreiber unterrichten nach Art. 26 den Anbieter — auch dann, wenn keine Behördenmeldung fällig ist.*
+*Betreiber unterrichten nach Art. 26 den Anbieter – auch dann, wenn keine Behördenmeldung fällig ist.*
 
 ## 7. Ursachenanalyse
 
@@ -91,4 +91,4 @@ Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird �
 
 ---
 
-MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand September 2026
+MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand November 2026

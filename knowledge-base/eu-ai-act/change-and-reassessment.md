@@ -15,13 +15,13 @@ erkannt  →  in Prüfung  →  freigegeben  →  ausgerollt
 
 Zu jeder Änderung gehören:
 
-- **Art der Änderung** — Modell, Daten, Schwellenwert, Zweck, Anbieter, Konfiguration
-- **Risikoeinstufung** der Änderung selbst — niedrig bis kritisch
-- **Teststatus** — nicht geprüft, bestanden, gescheitert
-- **Versionen** — Modell, Datenstand, Release
+- **Art der Änderung** – Modell, Daten, Schwellenwert, Zweck, Anbieter, Konfiguration
+- **Risikoeinstufung** der Änderung selbst – niedrig bis kritisch
+- **Teststatus** – nicht geprüft, bestanden, gescheitert
+- **Versionen** – Modell, Datenstand, Release
 - **Zwei Kennzeichen:** löst diese Änderung eine Neubewertung aus, und braucht sie eine Korrekturmaßnahme
 
-Die beiden Kennzeichen sind der Kern. Sie zwingen zu einer bewussten Antwort auf die Frage, ob eine Änderung folgenlos bleibt — statt sie stillschweigend zu unterstellen.
+Die beiden Kennzeichen sind der Kern. Sie zwingen zu einer bewussten Antwort auf die Frage, ob eine Änderung folgenlos bleibt – statt sie stillschweigend zu unterstellen.
 
 ## Wesentliche Änderung
 
@@ -29,15 +29,15 @@ Nicht jede Änderung ist rechtlich erheblich. Erheblich wird sie, wenn sie die Z
 
 - Ändert sich der **Zweck** oder der Anwendungsbereich?
 - Ändert sich die **Personengruppe**, über die entschieden wird?
-- Ändert sich die **Eingriffstiefe** — etwa von Vorschlag zu automatischer Entscheidung?
+- Ändert sich die **Eingriffstiefe** – etwa von Vorschlag zu automatischer Entscheidung?
 - Ändert sich das **zugrundeliegende Modell** oder dessen Trainingsdatenbasis wesentlich?
 - Wird eine **Annahme** verletzt, auf der die ursprüngliche Risikoeinstufung beruhte?
 
-Ein Ja bei einer dieser Fragen ist ein starkes Signal für eine Neubewertung — und bei Hochrisiko-Systemen gegebenenfalls für eine erneute Konformitätsbewertung.
+Ein Ja bei einer dieser Fragen ist ein starkes Signal für eine Neubewertung – und bei Hochrisiko-Systemen gegebenenfalls für eine erneute Konformitätsbewertung.
 
 ## Der Sonderfall, der am häufigsten übersehen wird
 
-**Der Anbieter ändert etwas, nicht Sie.** Ein zugekauftes Sprachmodell bekommt eine neue Version, ein Dienst ändert sein Verhalten, eine Schnittstelle wird abgekündigt. Für den Betreiber sieht das nach nichts aus — es gibt kein Ticket, keinen Release, keine Entscheidung.
+**Der Anbieter ändert etwas, nicht Sie.** Ein zugekauftes Sprachmodell bekommt eine neue Version, ein Dienst ändert sein Verhalten, eine Schnittstelle wird abgekündigt. Für den Betreiber sieht das nach nichts aus – es gibt kein Ticket, keinen Release, keine Entscheidung.
 
 Praktisch hilft nur:
 
@@ -61,7 +61,7 @@ In diesem Modell erzeugt ein Vorfall der Stufe hoch oder kritisch den Auslöser 
 
 ## Testfreigabe vor dem Ausrollen
 
-Eine Änderung mit Teststatus *nicht geprüft* oder *gescheitert* sollte nicht in den Status *ausgerollt* wechseln können. Das ist die einfachste wirksame Sperre im ganzen Verfahren — und die, die am ehesten umgangen wird, wenn es eilt.
+Eine Änderung mit Teststatus *nicht geprüft* oder *gescheitert* sollte nicht in den Status *ausgerollt* wechseln können. Das ist die einfachste wirksame Sperre im ganzen Verfahren – und die, die am ehesten umgangen wird, wenn es eilt.
 
 Wenn sie umgangen wird, gehört das dokumentiert: wer entschieden hat, mit welcher Begründung, und wann nachgeprüft wird.
 

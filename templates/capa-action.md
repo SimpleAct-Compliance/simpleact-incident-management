@@ -1,6 +1,6 @@
 # Vorlage: Korrekturmaßnahme (CAPA)
 
-*CAPA steht für Corrective and Preventive Action — die Korrektur des eingetretenen Fehlers und die Vorbeugung gegen sein Wiederauftreten. Beides gehört getrennt beantwortet; die zweite Hälfte wird meist vergessen.*
+*CAPA steht für Corrective and Preventive Action – die Korrektur des eingetretenen Fehlers und die Vorbeugung gegen sein Wiederauftreten. Beides gehört getrennt beantwortet; die zweite Hälfte wird meist vergessen.*
 
 ---
 
@@ -16,19 +16,19 @@
 
 ## Problem
 
-*Was ist konkret falsch — nicht was es verursacht hat. Wenn sich das Problem nicht in zwei Sätzen sagen lässt, sind es vermutlich zwei Probleme.*
+*Was ist konkret falsch – nicht was es verursacht hat. Wenn sich das Problem nicht in zwei Sätzen sagen lässt, sind es vermutlich zwei Probleme.*
 
 ## Ursache
 
 *Warum ist es entstanden, und warum ist es nicht früher aufgefallen? Die zweite Frage führt fast immer zu einer Lücke im Monitoring oder in der Zuständigkeit.*
 
-## Korrektur — den Fehler beheben
+## Korrektur – den Fehler beheben
 
 | Maßnahme | Verantwortlich | Fällig | Status |
 |---|---|---|---|
 | | | | offen / in Arbeit / erledigt / geprüft |
 
-## Vorbeugung — das Wiederauftreten verhindern
+## Vorbeugung – das Wiederauftreten verhindern
 
 | Maßnahme | Verantwortlich | Fällig | Status |
 |---|---|---|---|
@@ -67,4 +67,4 @@
 
 ---
 
-MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand September 2026
+MIT-Lizenz, frei verwendbar. Keine Rechtsberatung. Vorlage von [SimpleAct](https://simpleact.de) · Stand November 2026

@@ -2,7 +2,7 @@
 
 ## Warum KI-Systeme eigene Beobachtung brauchen
 
-Klassische Überwachung fragt: Läuft der Dienst? Antwortet er schnell genug? Ein KI-System kann beide Fragen mit Ja beantworten und trotzdem seit Wochen falsch liegen. Die Verschlechterung zeigt sich nicht in der Verfügbarkeit, sondern in der Qualität der Ergebnisse — und die misst niemand, der nur die Infrastruktur beobachtet.
+Klassische Überwachung fragt: Läuft der Dienst? Antwortet er schnell genug? Ein KI-System kann beide Fragen mit Ja beantworten und trotzdem seit Wochen falsch liegen. Die Verschlechterung zeigt sich nicht in der Verfügbarkeit, sondern in der Qualität der Ergebnisse – und die misst niemand, der nur die Infrastruktur beobachtet.
 
 Ein Laufzeitsignal ist deshalb kein Alarm, sondern eine **dokumentierte Beobachtung**: Ein Messwert hat einen vorher festgelegten Schwellenwert über- oder unterschritten.
 
@@ -35,12 +35,12 @@ Bei **hoch** und **kritisch** entsteht im Modell automatisch ein Auslöser für 
 offen  →  anerkannt  →  eingedämmt  →  erledigt
 ```
 
-- **offen** — erfasst, noch niemandem zugeordnet
-- **anerkannt** — jemand hat die Verantwortung übernommen; ab hier läuft die Bearbeitungszeit
-- **eingedämmt** — die Wirkung ist begrenzt, die Ursache noch nicht beseitigt
-- **erledigt** — Ursache behoben, Wirksamkeit bestätigt
+- **offen** – erfasst, noch niemandem zugeordnet
+- **anerkannt** – jemand hat die Verantwortung übernommen; ab hier läuft die Bearbeitungszeit
+- **eingedämmt** – die Wirkung ist begrenzt, die Ursache noch nicht beseitigt
+- **erledigt** – Ursache behoben, Wirksamkeit bestätigt
 
-Der Schritt von *eingedämmt* zu *erledigt* ist der, den Organisationen am häufigsten überspringen. Er verlangt die Bestätigung, dass die Maßnahme gewirkt hat — nicht nur, dass sie ergriffen wurde.
+Der Schritt von *eingedämmt* zu *erledigt* ist der, den Organisationen am häufigsten überspringen. Er verlangt die Bestätigung, dass die Maßnahme gewirkt hat – nicht nur, dass sie ergriffen wurde.
 
 ## Wann ein Signal zum Vorfall wird
 
@@ -51,7 +51,7 @@ Nicht jedes Signal ist ein Vorfall. Die Schwelle liegt dort, wo eine der folgend
 - Wird eine **Zusage an Kunden oder Aufsicht** verletzt?
 - Ist die Ursache **außerhalb der normalen Schwankung** des Systems?
 
-Bleibt es bei Nein, genügt die Dokumentation des Signals. Wichtig ist, dass die Entscheidung festgehalten wird — auch die gegen einen Vorfall.
+Bleibt es bei Nein, genügt die Dokumentation des Signals. Wichtig ist, dass die Entscheidung festgehalten wird – auch die gegen einen Vorfall.
 
 ## Schwellenwerte festlegen
 
@@ -68,7 +68,7 @@ Die Begründung der Schwelle ist der Teil, nach dem in einer Prüfung gefragt wi
 
 Jedes Signal kann auf einen Vorfall, eine Korrekturmaßnahme und einen Auslöser zur Neubewertung verweisen. Diese Verknüpfung ist der eigentliche Nachweis: Sie zeigt, dass aus einer Beobachtung eine Handlung wurde und dass diese Handlung ein Ende hatte.
 
-Ein Bestand aus Signalen ohne Verknüpfungen belegt, dass beobachtet wurde — nicht, dass reagiert wurde.
+Ein Bestand aus Signalen ohne Verknüpfungen belegt, dass beobachtet wurde – nicht, dass reagiert wurde.
 
 ---
 

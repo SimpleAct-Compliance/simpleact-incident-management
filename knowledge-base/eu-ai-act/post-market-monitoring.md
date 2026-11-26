@@ -22,7 +22,7 @@ Der Kern ist nicht die Technik, sondern die Rückkopplung: Was im Betrieb beobac
 
 **Würde ich eine schleichende Verschlechterung überhaupt bemerken?** Wenn die einzige Rückmeldung Beschwerden von Nutzern sind, lautet die Antwort nein.
 
-**Wüsste ich, wann sie begonnen hat?** Ohne historische Messwerte lässt sich der Beginn nicht rekonstruieren — und damit nicht beurteilen, welche Entscheidungen betroffen waren.
+**Wüsste ich, wann sie begonnen hat?** Ohne historische Messwerte lässt sich der Beginn nicht rekonstruieren – und damit nicht beurteilen, welche Entscheidungen betroffen waren.
 
 **Weiß jemand Bestimmtes, dass er zuständig ist?** Eine Kennzahl ohne benannte Person wird nicht beobachtet, sie wird angezeigt.
 
@@ -32,11 +32,11 @@ Der Kern ist nicht die Technik, sondern die Rückkopplung: Was im Betrieb beobac
 
 Wer ein Hochrisiko-System einsetzt, ohne es selbst zu entwickeln, hat nach Art. 26 eigene Pflichten: Betrieb gemäß Gebrauchsanweisung, menschliche Aufsicht durch dafür befähigte Personen, Beobachtung des Betriebs und Unterrichtung des Anbieters bei Auffälligkeiten.
 
-Praktisch heißt das: Auch ohne Zugriff auf Modellinterna lassen sich Eingaben, Ausgaben, Übersteuerungen durch Menschen und Beschwerden beobachten. Gerade die **Rate der menschlichen Übersteuerung** ist eine der aussagekräftigsten Kennzahlen, die ein Betreiber hat — wenn Mitarbeitende dem System regelmäßig widersprechen, stimmt etwas nicht, lange bevor es jemand meldet.
+Praktisch heißt das: Auch ohne Zugriff auf Modellinterna lassen sich Eingaben, Ausgaben, Übersteuerungen durch Menschen und Beschwerden beobachten. Gerade die **Rate der menschlichen Übersteuerung** ist eine der aussagekräftigsten Kennzahlen, die ein Betreiber hat – wenn Mitarbeitende dem System regelmäßig widersprechen, stimmt etwas nicht, lange bevor es jemand meldet.
 
 ## Verhältnis zur Aufbewahrung von Protokollen
 
-Art. 12 verlangt die automatische Aufzeichnung von Ereignissen über die Lebensdauer des Systems. Diese Protokolle sind die Datengrundlage des Monitorings — und im Streitfall der Beleg dafür, was das System wann getan hat.
+Art. 12 verlangt die automatische Aufzeichnung von Ereignissen über die Lebensdauer des Systems. Diese Protokolle sind die Datengrundlage des Monitorings – und im Streitfall der Beleg dafür, was das System wann getan hat.
 
 Beides zusammen gedacht spart Arbeit: Wer die Protokollierung so auslegt, dass sich die Monitoring-Kennzahlen daraus ableiten lassen, muss nicht zweimal erheben.
 
