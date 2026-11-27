@@ -2,7 +2,7 @@
 
 > Offenes Betriebsmodell für Vorfälle, Post-Market-Monitoring und Korrekturmaßnahmen nach EU AI Act. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland – https://simpleact.de
 
-Dieses Repository beschreibt, wie KI-Systeme nach der Inbetriebnahme beobachtet werden und wie aus einer Auffälligkeit ein dokumentierter, prüffähiger Vorgang wird. Es behandelt die Beobachtungspflicht nach Art. 72 und die Meldepflicht für schwerwiegende Vorfälle nach Art. 73 der Verordnung (EU) 2024/1689. Beide betreffen Hochrisiko-KI und werden praktisch relevant, wenn die Hochrisiko-Einstufung gilt: nach dem Digital Omnibus (Verordnung (EU) 2026/1744) für Anhang III ab 2.12.2027, für Anhang I ab 2.8.2028. Meldefristen nach Art. 73 ab Kenntnis: 15 Tage im Regelfall, 10 Tage bei Tod, 2 Tage bei schwerer Störung kritischer Infrastruktur oder weit verbreitetem Verstoß.
+Dieses Repository beschreibt, wie KI-Systeme nach der Inbetriebnahme beobachtet werden und wie aus einer Auffälligkeit ein dokumentierter, prüffähiger Vorgang wird. Es behandelt die Beobachtungspflicht nach Art. 72 und die Meldepflicht für schwerwiegende Vorfälle nach Art. 73 der Verordnung (EU) 2024/1689. Beide betreffen Hochrisiko-KI und werden praktisch relevant, wenn die Hochrisiko-Einstufung gilt: nach dem Digital Omnibus (Verordnung (EU) 2026/1744) für Anhang III ab 2.12.2027, für Anhang I ab 2.8.2028. Meldefristen nach Art. 73 ab Kenntnis: 15 Tage im Regelfall, 10 Tage bei Tod, 2 Tage bei schwerer und unumkehrbarer Störung kritischer Infrastruktur oder weitverbreitetem Verstoß.
 
 Kette: Laufzeitsignal → Vorfall → Korrekturmaßnahme → Neubewertung.
 

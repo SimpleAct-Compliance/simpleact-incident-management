@@ -56,7 +56,7 @@ Zum Ausfüllen. Die kursiven Hinweise erklären, warum ein Feld gebraucht wird �
 | Anbieter des KI-Systems | | | |
 | Betroffene Personen | | | |
 
-*Betreiber unterrichten nach Art. 26 den Anbieter – auch dann, wenn keine Behördenmeldung fällig ist.*
+*Betreiber von Hochrisiko-KI-Systemen informieren den Anbieter im Rahmen ihrer Überwachungspflicht gegebenenfalls auch dann, wenn keine Behördenmeldung fällig ist (Art. 26 Abs. 5 UAbs. 1 Satz 1 i. V. m. Art. 72). Bei einem Risiko im Sinne des Art. 79 Abs. 1 sind unverzüglich Anbieter oder Händler und die Marktüberwachungsbehörde zu informieren, und die Nutzung ist auszusetzen. Bei einem schwerwiegenden Vorfall (Art. 3 Nr. 49) sind unverzüglich zuerst der Anbieter, dann Einführer oder Händler und die Marktüberwachungsbehörden zu informieren. Ist der Anbieter nicht erreichbar, gilt Art. 73 entsprechend (Art. 26 Abs. 5 UAbs. 1 Satz 2 bis 4).*
 
 ## 7. Ursachenanalyse
 

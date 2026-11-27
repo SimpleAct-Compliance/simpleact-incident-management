@@ -8,9 +8,9 @@ Deshalb gilt in diesem Modell: Die Einstufung „schwerwiegender Vorfall" ist ei
 
 ## Ab wann die Meldepflicht greift
 
-Art. 73 steht in Kapitel IX der Verordnung, das seit dem 2.8.2026 anwendbar ist. Meldepflichtig ist aber nur der Anbieter eines **Hochrisiko-KI-Systems**, und die Einstufungsregeln für Hochrisiko gelten nach dem Digital Omnibus (Verordnung (EU) 2026/1744) für Anhang III erst ab dem **2.12.2027** und für Anhang I ab dem **2.8.2028**. Praktisch wird die Meldepflicht also mit diesen Daten relevant. Wer den Vorfallprozess jetzt aufbaut, hat Zeit, ihn zu üben.
+Art. 73 steht in Kapitel IX der Verordnung, das seit dem 2.8.2026 anwendbar ist. Meldepflichtig nach Art. 73 ist der Anbieter eines **Hochrisiko-KI-Systems** (zu den Betreibern siehe unten), und die Einstufungsregeln für Hochrisiko gelten nach dem Digital Omnibus (Verordnung (EU) 2026/1744) für Anhang III erst ab dem **2.12.2027** und für Anhang I ab dem **2.8.2028**. Praktisch wird die Meldepflicht also mit diesen Daten relevant. Wer den Vorfallprozess jetzt aufbaut, hat Zeit, ihn zu üben.
 
-Betreiber melden nicht selbst an die Behörde, solange sie den Anbieter erreichen. Nach Art. 26 Abs. 5 informieren sie unverzüglich zuerst den Anbieter, dann Einführer oder Händler und die Marktüberwachungsbehörde. Ist der Anbieter nicht erreichbar, gilt Art. 73 für sie entsprechend.
+Betreiber, die einen schwerwiegenden Vorfall feststellen, informieren unverzüglich zuerst den Anbieter und dann den Einführer oder Händler und die zuständigen Marktüberwachungsbehörden (Art. 26 Abs. 5). Die Behörde erfährt vom Vorfall also auch dann durch den Betreiber, wenn der Anbieter erreichbar ist. Kann der Betreiber den Anbieter nicht erreichen, gilt Art. 73 für ihn entsprechend (Art. 26 Abs. 5).
 
 ## Was einen Vorfall schwerwiegend macht
 
@@ -33,7 +33,7 @@ Die Meldung geht an die Marktüberwachungsbehörde des Mitgliedstaats, in dem de
 |---|---|
 | Regelfall (Art. 73 Abs. 2) | 15 Tage |
 | Tod einer Person (Art. 73 Abs. 4) | 10 Tage |
-| Schwere Störung kritischer Infrastruktur oder weit verbreiteter Verstoß (Art. 73 Abs. 3) | 2 Tage |
+| Schwere und unumkehrbare Störung kritischer Infrastruktur (Art. 3 Nr. 49 lit. b) oder weitverbreiteter Verstoß (Art. 73 Abs. 3) | 2 Tage |
 
 **Diese Fristen gehören vor jeder Meldung am aktuellen Verordnungstext geprüft**, nicht aus einer Vorlage übernommen: Änderungsverordnungen können sie verschieben, und eine falsch berechnete Frist ist als Verstoß eigenständig sanktionierbar.
 
